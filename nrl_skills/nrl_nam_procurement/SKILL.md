@@ -29,7 +29,7 @@ Restate the need in one line. Ask: "Do you have a reference tender number for th
 Ask: Goods, Services or Works?
 
 ## Step 3 - Need capture
-Ask for these in ONE message (the user may skip any):
+Ask for these(the user may skip any):
 - Item / service / work description
 - Type: OPEX or CAPEX
 - Tender type: Open / Limited / OEM / Proprietary / GeM
