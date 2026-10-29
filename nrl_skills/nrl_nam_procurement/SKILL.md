@@ -38,7 +38,7 @@ Ask for these(the user may skip any):
 - Contract period (months) and approx. value
 - Purpose / justification
 Do not call tools here. Restate the need in one line.
-Ask them one by one and even if user don't give any of them go to next step with the whatever info you have
+Ask them one by one with options and even if user don't give any of them go to next step with the whatever info you have
 
 ## Step 4 - Similar cases
 Call `search_tenders` with the need. Show:
