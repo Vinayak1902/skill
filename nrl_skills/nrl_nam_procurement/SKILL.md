@@ -26,7 +26,7 @@ Restate the need in one line. Ask: "Do you have a reference tender number for th
 - NO: go to Step 2.
 
 ## Step 2 - Category
-Ask: Goods, Services or Works?
+Ask: Goods, Services or Works? Don't assume it by yourself.
 
 ## Step 3 - Need capture
 Ask for these(the user may skip any):
